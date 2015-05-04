@@ -2,11 +2,6 @@ LdcBunnyMultiConsumer
 =============
 
 ---
-[![Latest Stable Version](https://poser.pugx.org/adamlundrigan/ldc-bunny-multi-consumer/v/stable.svg)](https://packagist.org/packages/adamlundrigan/ldc-bunny-multi-consumer) [![Total Downloads](https://poser.pugx.org/adamlundrigan/ldc-bunny-multi-consumer/downloads.svg)](https://packagist.org/packages/adamlundrigan/ldc-bunny-multi-consumer) [![Latest Unstable Version](https://poser.pugx.org/adamlundrigan/ldc-bunny-multi-consumer/v/unstable.svg)](https://packagist.org/packages/adamlundrigan/ldc-bunny-multi-consumer) [![License](https://poser.pugx.org/adamlundrigan/ldc-bunny-multi-consumer/license.svg)](https://packagist.org/packages/adamlundrigan/ldc-bunny-multi-consumer)
-[![Build Status](https://travis-ci.org/adamlundrigan/LdcBunnyMultiConsumer.svg?branch=master)](https://travis-ci.org/adamlundrigan/LdcBunnyMultiConsumer)
-[![Code Coverage](https://scrutinizer-ci.com/g/adamlundrigan/LdcBunnyMultiConsumer/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/adamlundrigan/LdcBunnyMultiConsumer/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/adamlundrigan/LdcBunnyMultiConsumer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/adamlundrigan/LdcBunnyMultiConsumer/?branch=master)
-
 ---
 
 ## What?
